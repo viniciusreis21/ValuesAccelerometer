@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 2.6.4)
+add_definitions("-std=c++11")
+project(naoValues)
+find_package(qibuild)
+find_package(Threads REQUIRED)
+set(THREADS_PREFER_PTHREAD_FLAG ON)
+
+qi_create_bin(naoValues main.cpp src/NAOValues.cpp)
+target_link_libraries (hello ${CMAKE_THREAD_LIBS_INIT})
+include_directories(".")
