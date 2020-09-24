@@ -1,0 +1,7 @@
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/install.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/list_install_components.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/rebuild_cache.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/naoValues.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/edit_cache.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/install/strip.dir
+/home/viniciusreis/Projetos/C++/ValuesAccelerometer/build-rinobot-robot/CMakeFiles/install/local.dir
